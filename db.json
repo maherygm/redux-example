@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "author": "RAKOTO",
+      "title": "Consectetur adipisicing elit. Alias, provident?",
+      "content": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi dolor, corrupti amet consequatur ipsum commodi fugiat repellendus culpa molestias dicta impedit dolores quos, nulla accusantium excepturi dolore, aspernatur dolorem illum asperiores! Velit ullam laudantium obcaecati unde numquam asperiores adipisci laboriosam praesentium aspernatur facere itaque temporibus modi fugit, nobis autem corporis.",
+      "likes": 42,
+      "id": "2"
+    },
+    {
+      "author": "Randria",
+      "title": "ipsum dolor sit amet consectetur adipisicing elit. Alias, provident?",
+      "content": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi dolor, corrupti amet consequatur ipsum commodi fugiat repellendus culpa molestias dicta impedit dolores quos, nulla accusantium excepturi dolore, aspernatur dolorem illum asperiores! Velit ullam laudantium obcaecati unde numquam asperiores adipisci laboriosam praesentium aspernatur facere itaque temporibus modi fugit, nobis autem corporis.",
+      "likes": 33,
+      "id": "3"
+    },
+    {
+      "author": "Patrice",
+      "title": "salut",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi dolor, corrupti amet consequatur ipsum commodi fugiat repellendus culpa molestias dicta impedit dolores quos, nulla accusantium excepturi dolore, aspernatur dolorem illum asperiores! Velit ullam laudantium obcaecati unde numquam asperiores adipisci laboraspernatur facere itaque temporibus modi fugit, nobis autem corporis.",
+      "likes": 5,
+      "id": "1ab9"
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Patrice",
+      "likes": 19,
+      "age": 30,
+      "id": "1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.postform > form > input,
+.postform > form > textarea {
+  display: block;
+  width: 100%;
+  margin: 5px;
+  width: 300px;
+  padding: 5px;
+}
+.postform {
+  border: 1px solid black;
+  width: min-content;
+  padding: 10px;
+  margin: 10px;
+}
+
+.postform > form > button {
+  width: 100px;
+}
+
+.postform > form > input {
+  height: 30px;
+}
+.postform > form > textarea {
+  height: 60px;
+  resize: none;
+}

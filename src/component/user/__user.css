@@ -1,0 +1,15 @@
+.user-section {
+  width: auto;
+  height: auto;
+  background-color: lightblue;
+  padding-right: 30px;
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  padding: 20px;
+}
+.user-section > .icons > svg {
+  width: 32px;
+  height: 32px;
+}
